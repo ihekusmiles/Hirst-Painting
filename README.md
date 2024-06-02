@@ -1,2 +1,2 @@
 # Hirst Painting
- Hirst painting using Turtle module
+ The Turtle module was used to illustrate Hirst Painting 
